@@ -1,0 +1,1 @@
+A dummy java project used to test Travis CI functionalities
